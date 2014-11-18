@@ -1,1 +1,3 @@
-Ovo je proba gita :)
+Ovo je proba gita
+I jos k tome, mozemo i dodavati
+i brisati
